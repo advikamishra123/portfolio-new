@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "outputDirectory": ".",
     "buildCommand": "npm run build",
     "functions": {
         "api/index.php": {
